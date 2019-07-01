@@ -1,0 +1,18 @@
+{
+  "name": "zympack",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "zympack": "./bin/zympack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zymfe/zympack.git"
+  },
+  "author": "zymfe@foxmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zymfe/zympack/issues"
+  },
+  "homepage": "https://github.com/zymfe/zympack#readme"
+}
