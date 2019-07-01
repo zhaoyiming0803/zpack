@@ -2,6 +2,7 @@
   "name": "zympack",
   "version": "1.0.0",
   "description": "",
+  "main": "./bin/zympack.js",
   "bin": {
     "zympack": "./bin/zympack.js"
   },
