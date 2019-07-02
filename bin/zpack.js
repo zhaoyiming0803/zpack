@@ -2,7 +2,7 @@
 
 const path = require('path');
 
-const config = require(path.resolve('zympack.config.js'));
+const config = require(path.resolve('zpack.config.js'));
 
 const Compiler = require('../lib/Compiler.js');
 

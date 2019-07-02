@@ -1,21 +1,21 @@
 {
-  "name": "zympack",
+  "name": "zpack",
   "version": "1.0.0",
   "description": "",
-  "main": "./bin/zympack.js",
+  "main": "./bin/zpack.js",
   "bin": {
-    "zympack": "./bin/zympack.js"
+    "zpack": "./bin/zpack.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zymfe/zympack.git"
+    "url": "git+https://github.com/zymfe/zpack.git"
   },
   "author": "zymfe@foxmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zymfe/zympack/issues"
+    "url": "https://github.com/zymfe/zpack/issues"
   },
-  "homepage": "https://github.com/zymfe/zympack#readme",
+  "homepage": "https://github.com/zymfe/zpack#readme",
   "devDependencies": {
     "@babel/generator": "^7.4.4",
     "@babel/traverse": "^7.4.5",
